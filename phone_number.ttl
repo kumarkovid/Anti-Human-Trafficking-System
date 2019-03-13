@@ -1,0 +1,548 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://htkg.stevens.edu/phone/instance/2012048675> ns1:areaCode 201 ;
+    <http://htkg.stevens.edu/phone/raw/> 2012048675 .
+
+<http://htkg.stevens.edu/phone/instance/2018788539> ns1:areaCode 201 ;
+    <http://htkg.stevens.edu/phone/raw/> 2018788539 .
+
+<http://htkg.stevens.edu/phone/instance/2029568194> ns1:areaCode 202 ;
+    <http://htkg.stevens.edu/phone/raw/> 2029568194 .
+
+<http://htkg.stevens.edu/phone/instance/2058646153> ns1:areaCode 205 ;
+    <http://htkg.stevens.edu/phone/raw/> 2058646153 .
+
+<http://htkg.stevens.edu/phone/instance/2063711027> ns1:areaCode 206 ;
+    <http://htkg.stevens.edu/phone/raw/> 2063711027 .
+
+<http://htkg.stevens.edu/phone/instance/2073329156> ns1:areaCode 207 ;
+    <http://htkg.stevens.edu/phone/raw/> 2073329156 .
+
+<http://htkg.stevens.edu/phone/instance/2123280579> ns1:areaCode 212 ;
+    <http://htkg.stevens.edu/phone/raw/> 2123280579 .
+
+<http://htkg.stevens.edu/phone/instance/2123378551> ns1:areaCode 212 ;
+    <http://htkg.stevens.edu/phone/raw/> 2123378551 .
+
+<http://htkg.stevens.edu/phone/instance/2124702709> ns1:areaCode 212 ;
+    <http://htkg.stevens.edu/phone/raw/> 2124702709 .
+
+<http://htkg.stevens.edu/phone/instance/2125188929> ns1:areaCode 212 ;
+    <http://htkg.stevens.edu/phone/raw/> 2125188929 .
+
+<http://htkg.stevens.edu/phone/instance/2126710018> ns1:areaCode 212 ;
+    <http://htkg.stevens.edu/phone/raw/> 2126710018 .
+
+<http://htkg.stevens.edu/phone/instance/2127259622> ns1:areaCode 212 ;
+    <http://htkg.stevens.edu/phone/raw/> 2127259622 .
+
+<http://htkg.stevens.edu/phone/instance/2135367583> ns1:areaCode 213 ;
+    <http://htkg.stevens.edu/phone/raw/> 2135367583 .
+
+<http://htkg.stevens.edu/phone/instance/2165027518> ns1:areaCode 216 ;
+    <http://htkg.stevens.edu/phone/raw/> 2165027518 .
+
+<http://htkg.stevens.edu/phone/instance/2252350235> ns1:areaCode 225 ;
+    <http://htkg.stevens.edu/phone/raw/> 2252350235 .
+
+<http://htkg.stevens.edu/phone/instance/3020060300> ns1:areaCode 302 ;
+    <http://htkg.stevens.edu/phone/raw/> 3020060300 .
+
+<http://htkg.stevens.edu/phone/instance/3052049044> ns1:areaCode 305 ;
+    <http://htkg.stevens.edu/phone/raw/> 3052049044 .
+
+<http://htkg.stevens.edu/phone/instance/3055218162> ns1:areaCode 305 ;
+    <http://htkg.stevens.edu/phone/raw/> 3055218162 .
+
+<http://htkg.stevens.edu/phone/instance/3056992806> ns1:areaCode 305 ;
+    <http://htkg.stevens.edu/phone/raw/> 3056992806 .
+
+<http://htkg.stevens.edu/phone/instance/3057913270> ns1:areaCode 305 ;
+    <http://htkg.stevens.edu/phone/raw/> 3057913270 .
+
+<http://htkg.stevens.edu/phone/instance/3058344353> ns1:areaCode 305 ;
+    <http://htkg.stevens.edu/phone/raw/> 3058344353 .
+
+<http://htkg.stevens.edu/phone/instance/3059985012> ns1:areaCode 305 ;
+    <http://htkg.stevens.edu/phone/raw/> 3059985012 .
+
+<http://htkg.stevens.edu/phone/instance/3103400002> ns1:areaCode 310 ;
+    <http://htkg.stevens.edu/phone/raw/> 3103400002 .
+
+<http://htkg.stevens.edu/phone/instance/3108442916> ns1:areaCode 310 ;
+    <http://htkg.stevens.edu/phone/raw/> 3108442916 .
+
+<http://htkg.stevens.edu/phone/instance/3145560365> ns1:areaCode 314 ;
+    <http://htkg.stevens.edu/phone/raw/> 3145560365 .
+
+<http://htkg.stevens.edu/phone/instance/3154866549> ns1:areaCode 315 ;
+    <http://htkg.stevens.edu/phone/raw/> 3154866549 .
+
+<http://htkg.stevens.edu/phone/instance/3213925764> ns1:areaCode 321 ;
+    <http://htkg.stevens.edu/phone/raw/> 3213925764 .
+
+<http://htkg.stevens.edu/phone/instance/3232075634> ns1:areaCode 323 ;
+    <http://htkg.stevens.edu/phone/raw/> 3232075634 .
+
+<http://htkg.stevens.edu/phone/instance/3237637511> ns1:areaCode 323 ;
+    <http://htkg.stevens.edu/phone/raw/> 3237637511 .
+
+<http://htkg.stevens.edu/phone/instance/3238366122> ns1:areaCode 323 ;
+    <http://htkg.stevens.edu/phone/raw/> 3238366122 .
+
+<http://htkg.stevens.edu/phone/instance/3322006785> ns1:areaCode 332 ;
+    <http://htkg.stevens.edu/phone/raw/> 3322006785 .
+
+<http://htkg.stevens.edu/phone/instance/3473057655> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3473057655 .
+
+<http://htkg.stevens.edu/phone/instance/3473134399> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3473134399 .
+
+<http://htkg.stevens.edu/phone/instance/3473454154> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3473454154 .
+
+<http://htkg.stevens.edu/phone/instance/3473637709> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3473637709 .
+
+<http://htkg.stevens.edu/phone/instance/3473753054> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3473753054 .
+
+<http://htkg.stevens.edu/phone/instance/3474248495> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3474248495 .
+
+<http://htkg.stevens.edu/phone/instance/3476129717> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3476129717 .
+
+<http://htkg.stevens.edu/phone/instance/3476236372> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3476236372 .
+
+<http://htkg.stevens.edu/phone/instance/3476410598> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3476410598 .
+
+<http://htkg.stevens.edu/phone/instance/3476517544> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3476517544 .
+
+<http://htkg.stevens.edu/phone/instance/3476982258> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3476982258 .
+
+<http://htkg.stevens.edu/phone/instance/3477410340> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3477410340 .
+
+<http://htkg.stevens.edu/phone/instance/3477543932> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3477543932 .
+
+<http://htkg.stevens.edu/phone/instance/3478356025> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3478356025 .
+
+<http://htkg.stevens.edu/phone/instance/3478926771> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3478926771 .
+
+<http://htkg.stevens.edu/phone/instance/3478983888> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3478983888 .
+
+<http://htkg.stevens.edu/phone/instance/3479801033> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3479801033 .
+
+<http://htkg.stevens.edu/phone/instance/3479980312> ns1:areaCode 347 ;
+    <http://htkg.stevens.edu/phone/raw/> 3479980312 .
+
+<http://htkg.stevens.edu/phone/instance/3863152264> ns1:areaCode 386 ;
+    <http://htkg.stevens.edu/phone/raw/> 3863152264 .
+
+<http://htkg.stevens.edu/phone/instance/4042461421> ns1:areaCode 404 ;
+    <http://htkg.stevens.edu/phone/raw/> 4042461421 .
+
+<http://htkg.stevens.edu/phone/instance/4044457139> ns1:areaCode 404 ;
+    <http://htkg.stevens.edu/phone/raw/> 4044457139 .
+
+<http://htkg.stevens.edu/phone/instance/4078528987> ns1:areaCode 407 ;
+    <http://htkg.stevens.edu/phone/raw/> 4078528987 .
+
+<http://htkg.stevens.edu/phone/instance/4105012190> ns1:areaCode 410 ;
+    <http://htkg.stevens.edu/phone/raw/> 4105012190 .
+
+<http://htkg.stevens.edu/phone/instance/4149409211> ns1:areaCode 414 ;
+    <http://htkg.stevens.edu/phone/raw/> 4149409211 .
+
+<http://htkg.stevens.edu/phone/instance/4155698913> ns1:areaCode 415 ;
+    <http://htkg.stevens.edu/phone/raw/> 4155698913 .
+
+<http://htkg.stevens.edu/phone/instance/4156466026> ns1:areaCode 415 ;
+    <http://htkg.stevens.edu/phone/raw/> 4156466026 .
+
+<http://htkg.stevens.edu/phone/instance/4156537701> ns1:areaCode 415 ;
+    <http://htkg.stevens.edu/phone/raw/> 4156537701 .
+
+<http://htkg.stevens.edu/phone/instance/4243316360> ns1:areaCode 424 ;
+    <http://htkg.stevens.edu/phone/raw/> 4243316360 .
+
+<http://htkg.stevens.edu/phone/instance/4243331203> ns1:areaCode 424 ;
+    <http://htkg.stevens.edu/phone/raw/> 4243331203 .
+
+<http://htkg.stevens.edu/phone/instance/4302181248> ns1:areaCode 430 ;
+    <http://htkg.stevens.edu/phone/raw/> 4302181248 .
+
+<http://htkg.stevens.edu/phone/instance/4422353496> ns1:areaCode 442 ;
+    <http://htkg.stevens.edu/phone/raw/> 4422353496 .
+
+<http://htkg.stevens.edu/phone/instance/4703788040> ns1:areaCode 470 ;
+    <http://htkg.stevens.edu/phone/raw/> 4703788040 .
+
+<http://htkg.stevens.edu/phone/instance/4752217201> ns1:areaCode 475 ;
+    <http://htkg.stevens.edu/phone/raw/> 4752217201 .
+
+<http://htkg.stevens.edu/phone/instance/4807449042> ns1:areaCode 480 ;
+    <http://htkg.stevens.edu/phone/raw/> 4807449042 .
+
+<http://htkg.stevens.edu/phone/instance/4846925480> ns1:areaCode 484 ;
+    <http://htkg.stevens.edu/phone/raw/> 4846925480 .
+
+<http://htkg.stevens.edu/phone/instance/5086906072> ns1:areaCode 508 ;
+    <http://htkg.stevens.edu/phone/raw/> 5086906072 .
+
+<http://htkg.stevens.edu/phone/instance/5162687760> ns1:areaCode 516 ;
+    <http://htkg.stevens.edu/phone/raw/> 5162687760 .
+
+<http://htkg.stevens.edu/phone/instance/5182296920> ns1:areaCode 518 ;
+    <http://htkg.stevens.edu/phone/raw/> 5182296920 .
+
+<http://htkg.stevens.edu/phone/instance/5188277793> ns1:areaCode 518 ;
+    <http://htkg.stevens.edu/phone/raw/> 5188277793 .
+
+<http://htkg.stevens.edu/phone/instance/5512324286> ns1:areaCode 551 ;
+    <http://htkg.stevens.edu/phone/raw/> 5512324286 .
+
+<http://htkg.stevens.edu/phone/instance/5512363332> ns1:areaCode 551 ;
+    <http://htkg.stevens.edu/phone/raw/> 5512363332 .
+
+<http://htkg.stevens.edu/phone/instance/5624530735> ns1:areaCode 562 ;
+    <http://htkg.stevens.edu/phone/raw/> 5624530735 .
+
+<http://htkg.stevens.edu/phone/instance/5678683433> ns1:areaCode 567 ;
+    <http://htkg.stevens.edu/phone/raw/> 5678683433 .
+
+<http://htkg.stevens.edu/phone/instance/5703605896> ns1:areaCode 570 ;
+    <http://htkg.stevens.edu/phone/raw/> 5703605896 .
+
+<http://htkg.stevens.edu/phone/instance/5854043068> ns1:areaCode 585 ;
+    <http://htkg.stevens.edu/phone/raw/> 5854043068 .
+
+<http://htkg.stevens.edu/phone/instance/6094531811> ns1:areaCode 609 ;
+    <http://htkg.stevens.edu/phone/raw/> 6094531811 .
+
+<http://htkg.stevens.edu/phone/instance/6098122474> ns1:areaCode 609 ;
+    <http://htkg.stevens.edu/phone/raw/> 6098122474 .
+
+<http://htkg.stevens.edu/phone/instance/6462076850> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6462076850 .
+
+<http://htkg.stevens.edu/phone/instance/6463309445> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6463309445 .
+
+<http://htkg.stevens.edu/phone/instance/6463496341> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6463496341 .
+
+<http://htkg.stevens.edu/phone/instance/6464931002> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6464931002 .
+
+<http://htkg.stevens.edu/phone/instance/6465431160> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6465431160 .
+
+<http://htkg.stevens.edu/phone/instance/6466009494> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6466009494 .
+
+<http://htkg.stevens.edu/phone/instance/6466305453> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6466305453 .
+
+<http://htkg.stevens.edu/phone/instance/6466783683> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6466783683 .
+
+<http://htkg.stevens.edu/phone/instance/6467019497> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6467019497 .
+
+<http://htkg.stevens.edu/phone/instance/6467035093> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6467035093 .
+
+<http://htkg.stevens.edu/phone/instance/6467308069> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6467308069 .
+
+<http://htkg.stevens.edu/phone/instance/6467365032> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6467365032 .
+
+<http://htkg.stevens.edu/phone/instance/6467448240> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6467448240 .
+
+<http://htkg.stevens.edu/phone/instance/6468683456> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6468683456 .
+
+<http://htkg.stevens.edu/phone/instance/6469200226> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6469200226 .
+
+<http://htkg.stevens.edu/phone/instance/6469307825> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6469307825 .
+
+<http://htkg.stevens.edu/phone/instance/6469536200> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6469536200 .
+
+<http://htkg.stevens.edu/phone/instance/6469751255> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6469751255 .
+
+<http://htkg.stevens.edu/phone/instance/6469785006> ns1:areaCode 646 ;
+    <http://htkg.stevens.edu/phone/raw/> 6469785006 .
+
+<http://htkg.stevens.edu/phone/instance/6696669631> ns1:areaCode 669 ;
+    <http://htkg.stevens.edu/phone/raw/> 6696669631 .
+
+<http://htkg.stevens.edu/phone/instance/6786984532> ns1:areaCode 678 ;
+    <http://htkg.stevens.edu/phone/raw/> 6786984532 .
+
+<http://htkg.stevens.edu/phone/instance/7025832798> ns1:areaCode 702 ;
+    <http://htkg.stevens.edu/phone/raw/> 7025832798 .
+
+<http://htkg.stevens.edu/phone/instance/7025929775> ns1:areaCode 702 ;
+    <http://htkg.stevens.edu/phone/raw/> 7025929775 .
+
+<http://htkg.stevens.edu/phone/instance/7026051243> ns1:areaCode 702 ;
+    <http://htkg.stevens.edu/phone/raw/> 7026051243 .
+
+<http://htkg.stevens.edu/phone/instance/7026139076> ns1:areaCode 702 ;
+    <http://htkg.stevens.edu/phone/raw/> 7026139076 .
+
+<http://htkg.stevens.edu/phone/instance/7027183948> ns1:areaCode 702 ;
+    <http://htkg.stevens.edu/phone/raw/> 7027183948 .
+
+<http://htkg.stevens.edu/phone/instance/7028848076> ns1:areaCode 702 ;
+    <http://htkg.stevens.edu/phone/raw/> 7028848076 .
+
+<http://htkg.stevens.edu/phone/instance/7073060420> ns1:areaCode 707 ;
+    <http://htkg.stevens.edu/phone/raw/> 7073060420 .
+
+<http://htkg.stevens.edu/phone/instance/7073066504> ns1:areaCode 707 ;
+    <http://htkg.stevens.edu/phone/raw/> 7073066504 .
+
+<http://htkg.stevens.edu/phone/instance/7164952331> ns1:areaCode 716 ;
+    <http://htkg.stevens.edu/phone/raw/> 7164952331 .
+
+<http://htkg.stevens.edu/phone/instance/7184962657> ns1:areaCode 718 ;
+    <http://htkg.stevens.edu/phone/raw/> 7184962657 .
+
+<http://htkg.stevens.edu/phone/instance/7187870012> ns1:areaCode 718 ;
+    <http://htkg.stevens.edu/phone/raw/> 7187870012 .
+
+<http://htkg.stevens.edu/phone/instance/7204618306> ns1:areaCode 720 ;
+    <http://htkg.stevens.edu/phone/raw/> 7204618306 .
+
+<http://htkg.stevens.edu/phone/instance/7205997426> ns1:areaCode 720 ;
+    <http://htkg.stevens.edu/phone/raw/> 7205997426 .
+
+<http://htkg.stevens.edu/phone/instance/7323092719> ns1:areaCode 732 ;
+    <http://htkg.stevens.edu/phone/raw/> 7323092719 .
+
+<http://htkg.stevens.edu/phone/instance/7329484147> ns1:areaCode 732 ;
+    <http://htkg.stevens.edu/phone/raw/> 7329484147 .
+
+<http://htkg.stevens.edu/phone/instance/7543009723> ns1:areaCode 754 ;
+    <http://htkg.stevens.edu/phone/raw/> 7543009723 .
+
+<http://htkg.stevens.edu/phone/instance/7857894924> ns1:areaCode 785 ;
+    <http://htkg.stevens.edu/phone/raw/> 7857894924 .
+
+<http://htkg.stevens.edu/phone/instance/7865402261> ns1:areaCode 786 ;
+    <http://htkg.stevens.edu/phone/raw/> 7865402261 .
+
+<http://htkg.stevens.edu/phone/instance/7866005645> ns1:areaCode 786 ;
+    <http://htkg.stevens.edu/phone/raw/> 7866005645 .
+
+<http://htkg.stevens.edu/phone/instance/7868603010> ns1:areaCode 786 ;
+    <http://htkg.stevens.edu/phone/raw/> 7868603010 .
+
+<http://htkg.stevens.edu/phone/instance/8046052825> ns1:areaCode 804 ;
+    <http://htkg.stevens.edu/phone/raw/> 8046052825 .
+
+<http://htkg.stevens.edu/phone/instance/8185790102> ns1:areaCode 818 ;
+    <http://htkg.stevens.edu/phone/raw/> 8185790102 .
+
+<http://htkg.stevens.edu/phone/instance/8186600074> ns1:areaCode 818 ;
+    <http://htkg.stevens.edu/phone/raw/> 8186600074 .
+
+<http://htkg.stevens.edu/phone/instance/8322757375> ns1:areaCode 832 ;
+    <http://htkg.stevens.edu/phone/raw/> 8322757375 .
+
+<http://htkg.stevens.edu/phone/instance/8329228691> ns1:areaCode 832 ;
+    <http://htkg.stevens.edu/phone/raw/> 8329228691 .
+
+<http://htkg.stevens.edu/phone/instance/8622392976> ns1:areaCode 862 ;
+    <http://htkg.stevens.edu/phone/raw/> 8622392976 .
+
+<http://htkg.stevens.edu/phone/instance/8622852086> ns1:areaCode 862 ;
+    <http://htkg.stevens.edu/phone/raw/> 8622852086 .
+
+<http://htkg.stevens.edu/phone/instance/9133360167> ns1:areaCode 913 ;
+    <http://htkg.stevens.edu/phone/raw/> 9133360167 .
+
+<http://htkg.stevens.edu/phone/instance/9142225816> ns1:areaCode 914 ;
+    <http://htkg.stevens.edu/phone/raw/> 9142225816 .
+
+<http://htkg.stevens.edu/phone/instance/9143388838> ns1:areaCode 914 ;
+    <http://htkg.stevens.edu/phone/raw/> 9143388838 .
+
+<http://htkg.stevens.edu/phone/instance/9149875656> ns1:areaCode 914 ;
+    <http://htkg.stevens.edu/phone/raw/> 9149875656 .
+
+<http://htkg.stevens.edu/phone/instance/9164072113> ns1:areaCode 916 ;
+    <http://htkg.stevens.edu/phone/raw/> 9164072113 .
+
+<http://htkg.stevens.edu/phone/instance/9165448003> ns1:areaCode 916 ;
+    <http://htkg.stevens.edu/phone/raw/> 9165448003 .
+
+<http://htkg.stevens.edu/phone/instance/9165619061> ns1:areaCode 916 ;
+    <http://htkg.stevens.edu/phone/raw/> 9165619061 .
+
+<http://htkg.stevens.edu/phone/instance/9166440240> ns1:areaCode 916 ;
+    <http://htkg.stevens.edu/phone/raw/> 9166440240 .
+
+<http://htkg.stevens.edu/phone/instance/9172147726> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9172147726 .
+
+<http://htkg.stevens.edu/phone/instance/9172463675> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9172463675 .
+
+<http://htkg.stevens.edu/phone/instance/9172933223> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9172933223 .
+
+<http://htkg.stevens.edu/phone/instance/9173095615> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9173095615 .
+
+<http://htkg.stevens.edu/phone/instance/9173268998> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9173268998 .
+
+<http://htkg.stevens.edu/phone/instance/9173469045> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9173469045 .
+
+<http://htkg.stevens.edu/phone/instance/9173917762> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9173917762 .
+
+<http://htkg.stevens.edu/phone/instance/9174050328> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9174050328 .
+
+<http://htkg.stevens.edu/phone/instance/9174234842> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9174234842 .
+
+<http://htkg.stevens.edu/phone/instance/9174443392> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9174443392 .
+
+<http://htkg.stevens.edu/phone/instance/9175248068> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9175248068 .
+
+<http://htkg.stevens.edu/phone/instance/9176361481> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9176361481 .
+
+<http://htkg.stevens.edu/phone/instance/9176555273> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9176555273 .
+
+<http://htkg.stevens.edu/phone/instance/9177083402> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9177083402 .
+
+<http://htkg.stevens.edu/phone/instance/9177210310> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9177210310 .
+
+<http://htkg.stevens.edu/phone/instance/9177256610> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9177256610 .
+
+<http://htkg.stevens.edu/phone/instance/9177454505> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9177454505 .
+
+<http://htkg.stevens.edu/phone/instance/9177709323> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9177709323 .
+
+<http://htkg.stevens.edu/phone/instance/9178065280> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9178065280 .
+
+<http://htkg.stevens.edu/phone/instance/9178183851> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9178183851 .
+
+<http://htkg.stevens.edu/phone/instance/9178707953> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9178707953 .
+
+<http://htkg.stevens.edu/phone/instance/9179088183> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9179088183 .
+
+<http://htkg.stevens.edu/phone/instance/9179089645> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9179089645 .
+
+<http://htkg.stevens.edu/phone/instance/9179376384> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9179376384 .
+
+<http://htkg.stevens.edu/phone/instance/9179938505> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9179938505 .
+
+<http://htkg.stevens.edu/phone/instance/9179991535> ns1:areaCode 917 ;
+    <http://htkg.stevens.edu/phone/raw/> 9179991535 .
+
+<http://htkg.stevens.edu/phone/instance/9202349446> ns1:areaCode 920 ;
+    <http://htkg.stevens.edu/phone/raw/> 9202349446 .
+
+<http://htkg.stevens.edu/phone/instance/9292045626> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292045626 .
+
+<http://htkg.stevens.edu/phone/instance/9292045678> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292045678 .
+
+<http://htkg.stevens.edu/phone/instance/9292209422> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292209422 .
+
+<http://htkg.stevens.edu/phone/instance/9292693348> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292693348 .
+
+<http://htkg.stevens.edu/phone/instance/9292724916> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292724916 .
+
+<http://htkg.stevens.edu/phone/instance/9292818973> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9292818973 .
+
+<http://htkg.stevens.edu/phone/instance/9293689325> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9293689325 .
+
+<http://htkg.stevens.edu/phone/instance/9294103369> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9294103369 .
+
+<http://htkg.stevens.edu/phone/instance/9294223510> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9294223510 .
+
+<http://htkg.stevens.edu/phone/instance/9294307594> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9294307594 .
+
+<http://htkg.stevens.edu/phone/instance/9294622952> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9294622952 .
+
+<http://htkg.stevens.edu/phone/instance/9294977728> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9294977728 .
+
+<http://htkg.stevens.edu/phone/instance/9295309996> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9295309996 .
+
+<http://htkg.stevens.edu/phone/instance/9295758127> ns1:areaCode 929 ;
+    <http://htkg.stevens.edu/phone/raw/> 9295758127 .
+
+<http://htkg.stevens.edu/phone/instance/9374045107> ns1:areaCode 937 ;
+    <http://htkg.stevens.edu/phone/raw/> 9374045107 .
+
+<http://htkg.stevens.edu/phone/instance/9412377857> ns1:areaCode 941 ;
+    <http://htkg.stevens.edu/phone/raw/> 9412377857 .
+
+<http://htkg.stevens.edu/phone/instance/9493284976> ns1:areaCode 949 ;
+    <http://htkg.stevens.edu/phone/raw/> 9493284976 .
+
+<http://htkg.stevens.edu/phone/instance/9514218344> ns1:areaCode 951 ;
+    <http://htkg.stevens.edu/phone/raw/> 9514218344 .
+
+<http://htkg.stevens.edu/phone/instance/9733585778> ns1:areaCode 973 ;
+    <http://htkg.stevens.edu/phone/raw/> 9733585778 .
+
+<http://htkg.stevens.edu/phone/instance/9738733335> ns1:areaCode 973 ;
+    <http://htkg.stevens.edu/phone/raw/> 9738733335 .
